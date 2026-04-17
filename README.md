@@ -5,6 +5,9 @@
 043584ec38d4c4d121cb8e9573e70ba9
 
 ## Screenshot Semua Statets
+### Tampilan Awal
+![Tampilan_Awal](Tampilan_Awal.jpeg)
+
 ### Tampilan Sukses/Berhasil
 ![Tampilan_Utama](Success.jpeg)
 
